@@ -1,0 +1,21 @@
+_repo: The-Yser-and-the-Belgian-Coast_49072
+creator:
+  author:
+    agent_name: Michelin & Cie
+    gutenberg_agent_id: '44747'
+    url: http://www.gutenberg.org/2009/agents/44747
+description: ''
+gutenberg_issued: '2015-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Michelin's Illustrated Guides to the Battle-fields (1914-1918)
+subjects:
+- !lcsh 'Yser, Battle of the, Belgium, 1914'
+- !lcsh 'World War, 1914-1918 -- Battlefields -- Guidebooks'
+title: The Yser and the Belgian Coast
+url: http://www.gutenberg.org/ebooks/49072
